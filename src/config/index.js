@@ -1,4 +1,5 @@
 const env = process.env.REACT_APP_ENV;
+console.log(process.env);
 console.log(env);
 
 let config = {
